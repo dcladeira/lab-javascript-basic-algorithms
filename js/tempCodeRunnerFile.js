@@ -1,0 +1,1 @@
+console.log(phrasedToCheckFormated.length/2)
